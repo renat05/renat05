@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and UI/UX designer
 --------------------------------
 
-I have been working as a frontend developer for over 2 years. Although I have some knowledge in the field of server-side development, my main focus has been on developing web interfaces.
+
+I have been employed as a frontend developer for over 2 years. While I possess some knowledge in server-side development, my primary emphasis has been on crafting web interfaces.
 
 * ✉️  You can contact me at [@web_master13](https://t.me/web_master13)
 * 🤝  I'm open to collaborating on Interesting project
