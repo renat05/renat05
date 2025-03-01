@@ -5,7 +5,7 @@ Web developer and UI/UX designer
 --------------------------------
 
 
-I have been employed as a frontend developer for over 2 years. While I possess some knowledge in server-side development, my primary emphasis has been on crafting web interfaces.
+I have been employed as a frontend developer for over 4 years. While I possess some knowledge in server-side development, my primary emphasis has been on crafting web interfaces.
 
 * ✉️  You can contact me at [@web_master13](https://t.me/web_master13)
 * 🤝  I'm open to collaborating on Interesting project
